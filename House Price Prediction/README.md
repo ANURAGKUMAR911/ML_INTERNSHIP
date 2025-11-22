@@ -41,6 +41,4 @@ python regression_house_price_prediction.py
 - seaborn
 - joblib
 
-## Note
-- The ML approach includes multiple algorithms and advanced features
-- The regression approach focuses on core linear regression implementation
+
